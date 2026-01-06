@@ -31,7 +31,7 @@ Utilizando um dataset real de agendamentos médicos, este projeto identifica pad
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/larissa-vitoria/pacientes-faltas-analise.git](https://github.com/larissa-vitoria/pacientes-faltas-analise.git)
+    git clone https://github.com/larissa-vitoria/pacientes-faltas-analise
    ```
 
 2. Instale as dependências:
