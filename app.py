@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score
 
 # --- CONFIGURAÇÃO DA PÁGINA ---
 st.set_page_config(
-    page_title="Análise de Faltas",
+    page_title="Agenda Blindada | Análise de Faltas",
     page_icon="🏥",
     layout="wide"
 )
@@ -83,7 +83,7 @@ if filtro_bairro:
     df_viz = df_viz[df_viz['Bairro'].isin(filtro_bairro)]
 
 # --- 4. DASHBOARD ---
-st.title("🏥 Análise de Faltas em Consultas Médicas Agendadas")
+st.title("🏥 Agenda Blindada: Análise de Faltas em Consultas Médicas Agendadas")
 st.markdown("**Status:** Modelo Random Forest Ativo")
 
 # KPIs
