@@ -1,4 +1,4 @@
-# 🏥 Agenda Blindada: Análise de Faltas (No-Show) em Consultas Médicas
+# 🏥 Análise de Faltas (No-Show) em Consultas Médicas
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
@@ -6,7 +6,7 @@
 
 ## 🎯 Sobre o Projeto
 
-O **Agenda Blindada** é uma aplicação de análise de dados desenvolvida para enfrentar um dos maiores problemas financeiros de clínicas e consultórios: o **absenteísmo (No-Show)**.
+Esta é uma aplicação de análise de dados desenvolvida para enfrentar um dos maiores problemas financeiros de clínicas e consultórios: o **absenteísmo (No-Show)**.
 
 Utilizando um dataset real de agendamentos médicos, este projeto identifica padrões de comportamento e fatores de risco que levam pacientes a faltar às consultas, permitindo que gestores tomem medidas preventivas (como overbooking estratégico ou lembretes personalizados).
 
